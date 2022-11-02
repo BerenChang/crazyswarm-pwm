@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beren/crazyswarm/ros_ws/src/natnet/samples/SampleClient/coord_pub.cpp
+inttypes.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+conio.h
+-
+unistd.h
+-
+termios.h
+-
+vector
+-
+NatNetTypes.h
+-
+NatNetCAPI.h
+-
+NatNetClient.h
+-
+

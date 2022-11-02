@@ -1,0 +1,2 @@
+catkin_simple:crazyflie_tools:crazyswarm:externalDependencies/libobjecttracker:vrpn_catkin:vrpn_client_ros
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/beren/crazyswarm/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/beren/crazyswarm/ros_ws/install -G Unix Makefiles

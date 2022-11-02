@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/coord_pub.dir/samples/SampleClient/coord_pub.cpp.o  -o coord_pub  -lNatNetLibShared 

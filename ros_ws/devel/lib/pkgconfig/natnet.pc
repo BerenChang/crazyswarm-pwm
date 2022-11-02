@@ -1,0 +1,8 @@
+prefix=/home/beren/crazyswarm/ros_ws/devel
+
+Name: natnet
+Description: Description of natnet
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

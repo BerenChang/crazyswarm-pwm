@@ -1,0 +1,8 @@
+prefix=/home/beren/crazyswarm/ros_ws/install
+
+Name: vrpn_client_ros
+Description: Description of vrpn_client_ros
+Version: 0.2.2
+Cflags: -I${prefix}/include -I/home/beren/crazyswarm/ros_ws/build/crazyswarm/externalDependencies/libmotioncapture/deps/vrpn -I/home/beren/crazyswarm/ros_ws/src/crazyswarm/externalDependencies/libmotioncapture/deps/vrpn -I/home/beren/crazyswarm/ros_ws/src/crazyswarm/externalDependencies/libmotioncapture/deps/vrpn/atmellib -I/home/beren/crazyswarm/ros_ws/src/crazyswarm/externalDependencies/libmotioncapture/deps/vrpn/quat
+Libs: -L${prefix}/lib -lvrpn_client_ros
+Requires: geometry_msgs tf2_ros

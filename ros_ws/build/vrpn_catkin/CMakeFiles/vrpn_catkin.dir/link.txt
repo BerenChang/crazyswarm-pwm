@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libvrpn_catkin.so -o /home/beren/crazyswarm/ros_ws/devel/lib/libvrpn_catkin.so CMakeFiles/vrpn_catkin.dir/src/dependency_tracker.cc.o  /home/beren/crazyswarm/ros_ws/devel/lib/libvrpn.a /home/beren/crazyswarm/ros_ws/devel/lib/libquat.a 
